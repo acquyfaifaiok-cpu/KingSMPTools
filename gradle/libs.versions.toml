@@ -1,5 +1,6 @@
 [versions]
 mod-version = "0.1.0"
+yarn = "1.21.11+build.6"
 
 # Fabric (https://fabricmc.net/develop)
 jdk = "21"
@@ -18,6 +19,7 @@ meteor = "1.21.11-SNAPSHOT"
 # Fabric base
 minecraft = { module = "com.mojang:minecraft", version.ref = "minecraft" }
 fabric-loader = { module = "net.fabricmc:fabric-loader", version.ref = "fabric-loader" }
+yarn = { module = "net.fabricmc:yarn", version.ref = "yarn" }
 
 # Meteor client
 meteor-client = { module = "meteordevelopment:meteor-client", version.ref = "meteor" }
