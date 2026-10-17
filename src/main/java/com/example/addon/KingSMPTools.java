@@ -2,7 +2,7 @@ package com.example.kingsmptools;
 
 import com.example.kingsmptools.modules.AutoBuyEXP;
 import com.example.kingsmptools.modules.AutoOrders;
-import meteordevelopment.meteorclient.addon.MeteorAddon;
+import meteordevelopment.meteorclient.addons.MeteorAddon;
 import meteordevelopment.meteorclient.systems.modules.Category;
 import meteordevelopment.meteorclient.systems.modules.Modules;
 
